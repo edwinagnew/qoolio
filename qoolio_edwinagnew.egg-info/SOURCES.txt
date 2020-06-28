@@ -1,0 +1,8 @@
+README.md
+setup.py
+qoolio/__init__.py
+qoolio/general.py
+qoolio_edwinagnew.egg-info/PKG-INFO
+qoolio_edwinagnew.egg-info/SOURCES.txt
+qoolio_edwinagnew.egg-info/dependency_links.txt
+qoolio_edwinagnew.egg-info/top_level.txt
